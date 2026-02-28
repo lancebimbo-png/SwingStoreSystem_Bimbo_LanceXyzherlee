@@ -25,9 +25,9 @@ To share data logically between the three JFrames, a centralized class (`StoreDa
 - **Index Counter:** An integer `transactionCount` acts as a pointer. Every time a transaction succeeds, data is written to the history arrays at the index of `transactionCount`, and then the counter is incremented by 1.
 
 ## SCREENSHOTS
-<img width="1919" height="1020" alt="Screenshot 2026-02-28 193415" src="https://github.com/user-attachments/assets/dd2beb04-8282-4891-81a1-7494b82f8760" />
-
 <img width="1919" height="1018" alt="Screenshot 2026-02-28 193311" src="https://github.com/user-attachments/assets/b521d208-6301-4781-9678-473af6610453" />
+
+<img width="1919" height="1020" alt="Screenshot 2026-02-28 193415" src="https://github.com/user-attachments/assets/dd2beb04-8282-4891-81a1-7494b82f8760" />
 
 <img width="1919" height="1013" alt="Screenshot 2026-02-28 193447" src="https://github.com/user-attachments/assets/800fbb0f-3856-493c-8360-31b1652aed68" />
 
